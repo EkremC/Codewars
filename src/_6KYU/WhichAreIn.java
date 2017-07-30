@@ -3,6 +3,7 @@ package _6KYU;
 import java.util.*;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+import java.util.stream.Collectors;
 
 /**
  * Created by ekremcandemir on 07/07/2017.
@@ -38,6 +39,7 @@ public class WhichAreIn {
             list.addAll(returnSet);
             Collections.sort(list);
             return list.toArray(new String[list.size()]);
+
         }
 
         //in = 0;
