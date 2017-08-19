@@ -10,18 +10,18 @@ import java.util.List;
 
 public class PartialWordSearching {
 
-    static String[] findWord(String x, String[] y){
+    static String[] findWord(String x, String[] y) {
 
         List<String> returnList = new ArrayList<>();
 
-        for (String s:
-             y) {
-            if(s.toLowerCase().contains(x)){
+        for (String s :
+                y) {
+            if (s.toLowerCase().contains(x)) {
                 returnList.add(s);
             }
         }
 
-        return returnList.size() == 0 ? new String[] {"Empty"} : returnList.toArray(new String[returnList.size()]);
+        return returnList.size() == 0 ? new String[]{"Empty"} : returnList.toArray(new String[returnList.size()]);
     }
 
 }

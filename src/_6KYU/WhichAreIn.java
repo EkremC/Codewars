@@ -21,10 +21,10 @@ public class WhichAreIn {
 
         int in = 0;
 
-        if(arr2Size > arr1Size || arr1Size == arr2Size){
+        if (arr2Size > arr1Size || arr1Size == arr2Size) {
             for (int i = 0; i < arr1Size; i++) {
                 for (int j = 0; j < arr2Size; j++) {
-                    if(array2[j].contains(array1[i])){
+                    if (array2[j].contains(array1[i])) {
                         in++;
                         returnSet.add(array1[i]);
                         break;
@@ -34,7 +34,7 @@ public class WhichAreIn {
             }
         }
 
-        if(in != 0){
+        if (in != 0) {
             List<String> list = new ArrayList<>();
             list.addAll(returnSet);
             Collections.sort(list);
@@ -62,7 +62,7 @@ public class WhichAreIn {
             return list.toArray(new String[list.size()]);
         }
 */
-        return new String[] {};
+        return new String[]{};
 
     }
 

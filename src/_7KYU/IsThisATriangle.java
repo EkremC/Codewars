@@ -7,12 +7,12 @@ package _7KYU;
 
 public class IsThisATriangle {
 
-    public static boolean isTriangle(int a, int b, int c){
+    public static boolean isTriangle(int a, int b, int c) {
         //if( a + b > c && a + c > b && b + c > a && Math.abs(a - b) < c && Math.abs(a - c) < b && Math.abs(b - c) < a)
         //    return true;
         //else
-          //  return false;
+        //  return false;
 
-        return ( a + b > c && a + c > b && b + c > a && Math.abs(a - b) < c && Math.abs(a - c) < b && Math.abs(b - c) < a) ? true : false;
+        return (a + b > c && a + c > b && b + c > a && Math.abs(a - b) < c && Math.abs(a - c) < b && Math.abs(b - c) < a) ? true : false;
     }
 }

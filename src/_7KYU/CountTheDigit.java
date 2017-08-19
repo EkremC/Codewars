@@ -18,7 +18,7 @@ public class CountTheDigit {
             Pattern pattern = Pattern.compile(String.valueOf(d));
             Matcher matcher = pattern.matcher(String.valueOf(nPow));
 
-            while (matcher.find()){
+            while (matcher.find()) {
                 times++;
             }
         }

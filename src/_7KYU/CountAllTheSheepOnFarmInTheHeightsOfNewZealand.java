@@ -9,12 +9,12 @@ public class CountAllTheSheepOnFarmInTheHeightsOfNewZealand {
 
         int coming = 0;
 
-        for (int i:
-             fridayNightCounting) {
+        for (int i :
+                fridayNightCounting) {
             coming += i;
         }
 
-        for (int i:
+        for (int i :
                 saturdayNightCounting) {
             coming += i;
         }

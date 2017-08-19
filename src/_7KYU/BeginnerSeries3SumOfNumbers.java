@@ -8,17 +8,17 @@ public class BeginnerSeries3SumOfNumbers {
 
     public int GetSum(int a, int b) {
         int returnVal = 0;
-        if(a > b){
+        if (a > b) {
             for (int i = b; i <= a; i++) {
                 returnVal += i;
             }
             return returnVal;
-        }else if(b > a){
+        } else if (b > a) {
             for (int i = a; i <= b; i++) {
                 returnVal += i;
             }
             return returnVal;
-        }else{
+        } else {
             return a;
         }
     }

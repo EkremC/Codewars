@@ -11,24 +11,24 @@ public class Covfefe {
         boolean coverage = false;
         String[] arr = tweet.split(" ");
         for (int i = 0; i < arr.length; i++) {
-            if(arr[i].equals("coverage")){
+            if (arr[i].equals("coverage")) {
                 arr[i] = "covfefe";
                 coverage = true;
             }
         }
         String returnVal = "";
-        if(coverage){
+        if (coverage) {
             for (int i = 0; i < arr.length - 1; i++) {
                 returnVal += arr[i] + " ";
             }
             returnVal += arr[arr.length - 1];
 
             return returnVal;
-        }else {
+        } else {
             tweet += " covfefe";
             return tweet;
         }
-        
+
     }
 
 }

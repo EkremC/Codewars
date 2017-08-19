@@ -11,7 +11,7 @@ public class GrowthOfAPopulation {
         int year = 0;
         double perc = percent / 100;
 
-        while (p0 < p){
+        while (p0 < p) {
             p0 += (p0 * perc) + aug;
             year++;
         }

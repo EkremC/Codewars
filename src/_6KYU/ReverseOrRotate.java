@@ -9,17 +9,17 @@ public class ReverseOrRotate {
 
     public static String revRot(String strng, int sz) {
 
-        if(sz <= 0 || strng.isEmpty()) return "";
+        if (sz <= 0 || strng.isEmpty()) return "";
 
-        if(sz > strng.length() ) return "";
+        if (sz > strng.length()) return "";
 
         String[] str = new String[strng.length() / sz];
 
         int startIndex = 0;
         int endIndex = startIndex + sz;
 
-        for (int i = 0; i < strng.length() / sz; i++){
-            if(endIndex > strng.length()) break;
+        for (int i = 0; i < strng.length() / sz; i++) {
+            if (endIndex > strng.length()) break;
             str[i] = strng.substring(startIndex, endIndex);
             startIndex += sz;
             endIndex = startIndex + sz;
@@ -28,9 +28,9 @@ public class ReverseOrRotate {
         String returnVal = "";
 
         for (int i = 0; i < str.length; i++) {
-            if(isDivisibleByTwo(str[i])){
+            if (isDivisibleByTwo(str[i])) {
                 returnVal += reverse(str[i]);
-            }else{
+            } else {
                 returnVal += rotate(str[i]);
             }
         }
@@ -38,7 +38,7 @@ public class ReverseOrRotate {
         return returnVal;
     }
 
-    private static boolean isDivisibleByTwo(String s){
+    private static boolean isDivisibleByTwo(String s) {
 
         int sum = 0;
         for (int i = 0; i < s.length(); i++) {
@@ -49,14 +49,14 @@ public class ReverseOrRotate {
         return (sum % 2) == 0;
     }
 
-    private static String rotate(String s){
+    private static String rotate(String s) {
         String sb = s.substring(0, 1);
         String sb2 = s.substring(1, s.length());
 
         return sb2 + sb;
     }
 
-    private static String reverse(String s){
+    private static String reverse(String s) {
 
         return new StringBuilder(s).reverse().toString();
     }

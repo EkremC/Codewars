@@ -13,27 +13,27 @@ public class SectionalArraySort {
 
     static int[] sort(final int[] array, final int start, final int... length) {
 
-        if(array.length == 0) return new int[]{};
+        if (array.length == 0) return new int[]{};
 
-        if(length.length != 0 && start + length[0] > array.length) return array;
+        if (length.length != 0 && start + length[0] > array.length) return array;
 
         List<Integer> tempList = new ArrayList<>();
-        if(length.length == 0){
+        if (length.length == 0) {
             for (int i = start; i < array.length; i++) {
-                 tempList.add(array[i]);
+                tempList.add(array[i]);
             }
 
             Collections.sort(tempList);
 
             int tempStart = start;
             for (int i :
-                 tempList) {
+                    tempList) {
                 array[tempStart] = i;
                 tempStart++;
             }
 
             return array;
-        }else{
+        } else {
             for (int i = start; i < (start + length[0]); i++) {
                 tempList.add(array[i]);
             }

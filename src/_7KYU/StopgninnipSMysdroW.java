@@ -7,7 +7,7 @@ package _7KYU;
 
 public class StopgninnipSMysdroW {
 
-    public static void main(String[] args){
+    public static void main(String[] args) {
         System.out.println(spinWords("Welcome"));
     }
 
@@ -15,14 +15,14 @@ public class StopgninnipSMysdroW {
         String[] split = sentence.split(" ");
         StringBuilder builder = new StringBuilder("");
         for (int i = 0; i < split.length; i++) {
-            if(split[i].length() >= 5){
+            if (split[i].length() >= 5) {
                 String reversed = new StringBuilder(split[i]).reverse().toString();
-                if(i != 0)
+                if (i != 0)
                     builder.append(" " + reversed);
                 else
                     builder.append(reversed);
-            }else{
-                if(i != 0)
+            } else {
+                if (i != 0)
                     builder.append(" " + split[i]);
                 else
                     builder.append(split[i]);

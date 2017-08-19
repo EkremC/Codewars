@@ -8,9 +8,9 @@ public class GetTheMiddleCharacter {
 
     public static String getMiddle(String word) {
 
-        if(word.length() % 2 == 1){
+        if (word.length() % 2 == 1) {
             return word.substring((word.length() / 2), (word.length() / 2) + 1);
-        }else{
+        } else {
             return word.substring((word.length() / 2) - 1, (word.length() / 2) + 1);
         }
 

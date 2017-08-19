@@ -11,7 +11,7 @@ import java.util.regex.Pattern;
 
 public class BrokenSequence {
 
-    public static void main(String[] args){
+    public static void main(String[] args) {
 
     }
 
@@ -21,27 +21,26 @@ public class BrokenSequence {
         Pattern pattern = Pattern.compile("[^0-9 \\s]");
         Matcher matcher = pattern.matcher(sequence);
 
-        if(matcher.find())
+        if (matcher.find())
             return 1;
 
-        if(sequence.isEmpty())
+        if (sequence.isEmpty())
             return 0;
 
         String[] split = sequence.split(" ");
 
-        if(Integer.valueOf(split[0]) != 1)
+        if (Integer.valueOf(split[0]) != 1)
             return 1;
 
         int min = Integer.MAX_VALUE;
         boolean flag = false;
         for (int i = 0; i < split.length - 1; i++) {
-            if(Math.abs(Integer.valueOf(split[i]) - Integer.valueOf(split[i + 1])) != 1){
-                if(Integer.valueOf(split[i]) < Integer.valueOf(split[i + 1])){
-                    if(Integer.valueOf(split[i]) + 1 < min)
+            if (Math.abs(Integer.valueOf(split[i]) - Integer.valueOf(split[i + 1])) != 1) {
+                if (Integer.valueOf(split[i]) < Integer.valueOf(split[i + 1])) {
+                    if (Integer.valueOf(split[i]) + 1 < min)
                         min = Integer.valueOf(split[i]) + 1;
-                }
-                else{
-                    if(Integer.valueOf(split[i]) - 1 < min) {
+                } else {
+                    if (Integer.valueOf(split[i]) - 1 < min) {
                         min = Integer.valueOf(split[i]) - 1;
                     }
                 }
@@ -50,11 +49,11 @@ public class BrokenSequence {
 
 
         }
-        if(!flag){
+        if (!flag) {
             return 0;
         }
 
-        if(min != Integer.MAX_VALUE)
+        if (min != Integer.MAX_VALUE)
             return min;
 
         return missing;

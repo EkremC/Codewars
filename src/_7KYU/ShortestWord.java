@@ -14,8 +14,8 @@ public class ShortestWord {
 
         String[] split = s.split(" ");
         int minLength = Integer.MAX_VALUE;
-        for (int i = 0; i < split.length; i++){
-            if(split[i].length() < minLength) minLength = split[i].length();
+        for (int i = 0; i < split.length; i++) {
+            if (split[i].length() < minLength) minLength = split[i].length();
         }
 
         return minLength;

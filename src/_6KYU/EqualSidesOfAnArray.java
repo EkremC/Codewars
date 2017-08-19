@@ -10,12 +10,12 @@ public class EqualSidesOfAnArray {
     public static int findEvenIndex(int[] arr) {
 
         int leftSum = findSum(arr, 0, 0);
-        int rightSum = findSum(arr,  1, arr.length);
+        int rightSum = findSum(arr, 1, arr.length);
 
         for (int i = 0; i < arr.length - 1; i++) {
-            if(leftSum == rightSum)
+            if (leftSum == rightSum)
                 return i;
-            else{
+            else {
                 leftSum = findSum(arr, 0, i + 1);
                 rightSum = findSum(arr, i + 2, arr.length);
             }

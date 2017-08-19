@@ -15,13 +15,13 @@ public class AreWeAlternate {
         boolean firstConsonant = false;
 
         for (int i = 0; i < word.length(); i++) {
-            if(firstVowel && firstConsonant)
+            if (firstVowel && firstConsonant)
                 break;
 
-            if(word.substring(i, i + 1).matches("a|e|i|o|u") && !firstVowel){
-                    lastVowelIndex = i;
-                    firstVowel = true;
-            } else if(!firstConsonant){
+            if (word.substring(i, i + 1).matches("a|e|i|o|u") && !firstVowel) {
+                lastVowelIndex = i;
+                firstVowel = true;
+            } else if (!firstConsonant) {
                 lastConsonantIndex = i;
                 firstConsonant = true;
             }
@@ -29,14 +29,14 @@ public class AreWeAlternate {
         }
 
         for (int i = 0; i < word.length(); i++) {
-            if(word.substring(i, i + 1).matches("a|e|i|o|u")){
-                if(word.substring(i, i + 1).compareTo(word.substring(lastVowelIndex, lastVowelIndex + 1)) < 0){
+            if (word.substring(i, i + 1).matches("a|e|i|o|u")) {
+                if (word.substring(i, i + 1).compareTo(word.substring(lastVowelIndex, lastVowelIndex + 1)) < 0) {
                     return false;
-                }else{
+                } else {
                     lastVowelIndex = i;
                 }
-            }else{
-                if(word.substring(i, i + 1).compareTo(word.substring(lastConsonantIndex, lastConsonantIndex + 1)) < 0)
+            } else {
+                if (word.substring(i, i + 1).compareTo(word.substring(lastConsonantIndex, lastConsonantIndex + 1)) < 0)
                     return false;
                 else
                     lastConsonantIndex = i;

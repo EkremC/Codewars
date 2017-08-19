@@ -11,19 +11,19 @@ public class DifferenceBetweenTwoCollections {
 
     public static List<Character> diff(Collection<Character> a, Collection<Character> b) {
 
-        if(a.isEmpty() && !b.isEmpty()){
+        if (a.isEmpty() && !b.isEmpty()) {
             List<Character> returnList = new ArrayList<>();
             returnList.addAll(b);
             return returnList;
         }
 
-        if(!a.isEmpty() && b.isEmpty()){
+        if (!a.isEmpty() && b.isEmpty()) {
             List<Character> returnList = new ArrayList<>();
             returnList.addAll(a);
             return returnList;
         }
 
-        if(a.isEmpty() && b.isEmpty()) return new ArrayList<>();
+        if (a.isEmpty() && b.isEmpty()) return new ArrayList<>();
 
 
         List<Character> list = findCommonElement(a, b);
@@ -37,18 +37,18 @@ public class DifferenceBetweenTwoCollections {
         List<Character> list = new ArrayList<>();
 
         set.addAll(a);
-        for (Character c:
-             b) {
-            if(set.add(c))
+        for (Character c :
+                b) {
+            if (set.add(c))
                 list.add(c);
         }
 
         set.clear();
 
         set.addAll(b);
-        for (Character c:
-             a) {
-            if(set.add(c))
+        for (Character c :
+                a) {
+            if (set.add(c))
                 list.add(c);
         }
 

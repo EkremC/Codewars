@@ -12,11 +12,11 @@ public class DoIGetABonus {
 
     public static String bonusTime(final int salary, final boolean bonus) {
         int newSalary = salary;
-        if(bonus){
+        if (bonus) {
             newSalary *= 10;
             return Currency.getInstance(Locale.UK).getSymbol(Locale.UK) + newSalary;
 
-        }else{
+        } else {
             return Currency.getInstance(Locale.UK).getSymbol(Locale.UK) + newSalary;
         }
     }

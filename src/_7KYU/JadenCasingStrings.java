@@ -8,7 +8,7 @@ public class JadenCasingStrings {
 
     public String toJadenCase(String phrase) {
 
-        if(phrase == null || phrase.isEmpty()) return null;
+        if (phrase == null || phrase.isEmpty()) return null;
 
         String[] splitArr = phrase.split(" ");
         StringBuilder builder = new StringBuilder();

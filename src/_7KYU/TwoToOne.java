@@ -9,7 +9,7 @@ import java.util.*;
 // https://www.codewars.com/kata/two-to-one/train/java
 public class TwoToOne {
 
-    public static String longest (String s1, String s2) {
+    public static String longest(String s1, String s2) {
         char[] charArray1 = s1.toCharArray();
         char[] charArray2 = s2.toCharArray();
 
@@ -24,7 +24,7 @@ public class TwoToOne {
         List<Character> list = new ArrayList<>(set);
         Collections.sort(list);
         StringBuilder builder = new StringBuilder();
-        for(char c : list){
+        for (char c : list) {
             builder.append(c);
         }
 

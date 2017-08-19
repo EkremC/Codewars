@@ -11,7 +11,7 @@ public class FindTheNextPerfectSquare {
         double sqrt = Math.sqrt(sq);
         long sqrtLong = (long) sqrt;
 
-        if(Math.pow(sqrt, 2) != Math.pow(sqrtLong, 2)) return -1;
+        if (Math.pow(sqrt, 2) != Math.pow(sqrtLong, 2)) return -1;
 
 
         return (long) Math.pow(sqrtLong + 1, 2);

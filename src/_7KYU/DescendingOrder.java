@@ -16,7 +16,7 @@ public class DescendingOrder {
 
         int tempNum = num;
 
-        while (tempNum > 0){
+        while (tempNum > 0) {
             list.add(tempNum % 10);
             tempNum /= 10;
         }
@@ -24,7 +24,7 @@ public class DescendingOrder {
         Collections.sort(list);
         int returnVal = 0;
         int exp = 0;
-        for (int i = 0; i < list.size(); i++){
+        for (int i = 0; i < list.size(); i++) {
             returnVal += list.get(i) * Math.pow(10, exp);
             exp++;
         }

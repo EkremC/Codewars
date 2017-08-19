@@ -8,6 +8,7 @@ package _8KYU;
 public class Sid {
 
     private static String[] arr = new String[6];
+
     static {
         arr[0] = "I love you";
         arr[1] = "a little";

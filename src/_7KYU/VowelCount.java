@@ -14,10 +14,9 @@ public class VowelCount {
 
         Matcher matcher = Pattern.compile("a|e|i|o|u").matcher(str);
 
-        while (matcher.find()){
+        while (matcher.find()) {
             vowelsCount++;
         }
-
 
 
         return vowelsCount;

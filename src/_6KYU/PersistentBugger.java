@@ -9,15 +9,15 @@ import java.util.List;
 public class PersistentBugger {
 
     public static int persistence(long n) {
-         int times = 0;
+        int times = 0;
 
-        if(n < 10){
+        if (n < 10) {
             return 0;
         }
 
         long returnValue = multiply(n);
         times++;
-        while (returnValue >= 10){
+        while (returnValue >= 10) {
             returnValue = multiply(returnValue);
             times++;
         }
@@ -25,11 +25,11 @@ public class PersistentBugger {
         return times;
     }
 
-    private static int multiply(long n){
+    private static int multiply(long n) {
 
         long nCopy = n;
         int multiplyValue = 1;
-        while(nCopy > 0){
+        while (nCopy > 0) {
             int mode = (int) nCopy % 10;
             multiplyValue *= mode;
             nCopy /= 10;

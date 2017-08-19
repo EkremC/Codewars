@@ -12,9 +12,9 @@ public class HighestAndLowest {
 
         String[] split = numbers.split(" ");
         for (int i = 0; i < split.length; i++) {
-            if(Integer.valueOf(split[i]) < minNumber)
+            if (Integer.valueOf(split[i]) < minNumber)
                 minNumber = Integer.valueOf(split[i]);
-            if(Integer.valueOf(split[i]) > maxNumber)
+            if (Integer.valueOf(split[i]) > maxNumber)
                 maxNumber = Integer.valueOf(split[i]);
         }
         return maxNumber + " " + minNumber;

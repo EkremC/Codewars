@@ -34,7 +34,8 @@ public class Welcome {
         welcomes.put("IP_ADDRESS_REQUIRED", "Welcome");
 
     }
-    public static String greet(String language){
+
+    public static String greet(String language) {
         return welcomes.get(language);
     }
 

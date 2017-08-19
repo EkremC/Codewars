@@ -8,10 +8,10 @@ import java.util.regex.Pattern;
  */
 public class WithoutTheLetterE {
 
-    public static String find_E(String str){
+    public static String find_E(String str) {
 
-        if(str.isEmpty()) return "";
-        if(str.equals(null)) return null;
+        if (str.isEmpty()) return "";
+        if (str.equals(null)) return null;
 
         int counter = 0;
         String a = str.toLowerCase();

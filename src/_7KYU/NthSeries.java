@@ -7,7 +7,7 @@ public class NthSeries {
 
     public static String seriesSum(int n) {
 
-        if(n == 0)
+        if (n == 0)
             return "0.00";
 
         double sum = 1;

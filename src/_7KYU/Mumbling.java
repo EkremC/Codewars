@@ -10,14 +10,14 @@ public class Mumbling {
 
         StringBuilder builder = new StringBuilder();
         for (int i = 0; i < s.length(); i++) {
-            for(int j = 0; j < i + 1 ; j++){
-                if(j != 0){
+            for (int j = 0; j < i + 1; j++) {
+                if (j != 0) {
                     builder.append(s.substring(i, i + 1).toLowerCase());
-                }else{
+                } else {
                     builder.append(s.substring(i, i + 1).toUpperCase());
                 }
             }
-            if(i != s.length() - 1)
+            if (i != s.length() - 1)
                 builder.append("-");
         }
 

@@ -20,13 +20,13 @@ public class MostDigits {
         }
 
         for (int i = 0; i < list.size(); i++) {
-            if(list.get(i).contains("-")){
-                if(list.get(i).length() - 1 > length){
+            if (list.get(i).contains("-")) {
+                if (list.get(i).length() - 1 > length) {
                     length = list.get(i).length() - 1;
                     mostDigits = Integer.valueOf(list.get(i));
                 }
-            }else{
-                if(list.get(i).length() > length){
+            } else {
+                if (list.get(i).length() > length) {
                     length = list.get(i).length();
                     mostDigits = Integer.valueOf(list.get(i));
                 }

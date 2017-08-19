@@ -8,7 +8,6 @@ import java.util.Arrays;
 // https://www.codewars.com/kata/counting-sheep-dot-dot-dot/train/java
 public class CountingSheep {
     public int countSheeps(Boolean[] arrayOfSheeps) {
-
         return (int) Arrays.stream(arrayOfSheeps).filter(a -> a != null && a == true).count();
     }
 }

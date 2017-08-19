@@ -11,17 +11,17 @@ public class BuyCar {
         int months = 0;
 
         double startPriceNewDouble = startPriceNew;
-        if(startPriceOld >= startPriceNew)
-            return new int[] {months, startPriceOld - startPriceNew};
+        if (startPriceOld >= startPriceNew)
+            return new int[]{months, startPriceOld - startPriceNew};
 
 
         startPriceOld += savingperMonth;
         startPriceNewDouble *= ((100 - percentLossByMonth) / 100);
         months++;
 
-        while (startPriceOld < startPriceNewDouble){
+        while (startPriceOld < startPriceNewDouble) {
 
-            if(months % 2 == 0 && months != 0) percentLossByMonth += 0.5;
+            if (months % 2 == 0 && months != 0) percentLossByMonth += 0.5;
 
             startPriceOld += savingperMonth;
             startPriceNewDouble *= ((100 - percentLossByMonth) / 100);
@@ -30,7 +30,7 @@ public class BuyCar {
         }
 
 
-        return new int[] {months, startPriceOld - (int) startPriceNewDouble};
+        return new int[]{months, startPriceOld - (int) startPriceNewDouble};
     }
 
 }

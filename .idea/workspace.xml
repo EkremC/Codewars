@@ -2,9 +2,75 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9cb548fd-cf15-4083-a261-bf07d9807914" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/_5KYU/DirectionsReduction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/_7KYU/AnagramDetection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/_7KYU/AreaOfACircle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/_7KYU/BreakingChocolateProblem.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/_7KYU/GreetMe.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/_7KYU/NameArrayCapping.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/_7KYU/RemoveDuplicates.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/_7KYU/SortArrays1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/_7KYU/SortTheGiftCode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/_8KYU/ANeedleInTheHaystack.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/_5KYU/DirectionsReductionTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/_7KYU/AnagramDetectionTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/_7KYU/AreaOfACircleTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/_7KYU/BreakingChocolateProblemTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/_7KYU/GreetMeTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/_7KYU/NameArrayCappingTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/_7KYU/RemoveDuplicatesTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/_7KYU/SortArrays1Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/_7KYU/SortTheGiftCodeTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/_8KYU/ANeedleInTheHaystackTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Codewars/Deneme.class" afterPath="$PROJECT_DIR$/out/production/Codewars/Deneme.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Codewars/_6KYU/WhichAreIn.class" afterPath="$PROJECT_DIR$/out/production/Codewars/_6KYU/WhichAreIn.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Codewars/_6KYU/PlayingWithDigits.class" afterPath="$PROJECT_DIR$/out/production/Codewars/_6KYU/PlayingWithDigits.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Codewars/_8KYU/Sid.class" afterPath="$PROJECT_DIR$/out/production/Codewars/_8KYU/Sid.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Codewars/_8KYU/Welcome.class" afterPath="$PROJECT_DIR$/out/production/Codewars/_8KYU/Welcome.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_6KYU/AreTheyTheSame.java" afterPath="$PROJECT_DIR$/src/_6KYU/AreTheyTheSame.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_6KYU/AreWeAlternate.java" afterPath="$PROJECT_DIR$/src/_6KYU/AreWeAlternate.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_6KYU/BowlingPins.java" afterPath="$PROJECT_DIR$/src/_6KYU/BowlingPins.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_6KYU/BuyCar.java" afterPath="$PROJECT_DIR$/src/_6KYU/BuyCar.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_6KYU/EqualSidesOfAnArray.java" afterPath="$PROJECT_DIR$/src/_6KYU/EqualSidesOfAnArray.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_6KYU/FindTheParityOutlier.java" afterPath="$PROJECT_DIR$/src/_6KYU/FindTheParityOutlier.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_6KYU/MultiplesOf3And5.java" afterPath="$PROJECT_DIR$/src/_6KYU/MultiplesOf3And5.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_6KYU/PersistentBugger.java" afterPath="$PROJECT_DIR$/src/_6KYU/PersistentBugger.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_6KYU/PlayingWithDigits.java" afterPath="$PROJECT_DIR$/src/_6KYU/PlayingWithDigits.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_6KYU/ReverseOrRotate.java" afterPath="$PROJECT_DIR$/src/_6KYU/ReverseOrRotate.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_6KYU/WhichAreIn.java" afterPath="$PROJECT_DIR$/src/_6KYU/WhichAreIn.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_7KYU/BeginnerSeries3SumOfNumbers.java" afterPath="$PROJECT_DIR$/src/_7KYU/BeginnerSeries3SumOfNumbers.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_7KYU/BrokenSequence.java" afterPath="$PROJECT_DIR$/src/_7KYU/BrokenSequence.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_7KYU/ComplementaryDNA.java" afterPath="$PROJECT_DIR$/src/_7KYU/ComplementaryDNA.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_7KYU/CountAllTheSheepOnFarmInTheHeightsOfNewZealand.java" afterPath="$PROJECT_DIR$/src/_7KYU/CountAllTheSheepOnFarmInTheHeightsOfNewZealand.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_7KYU/CountTheDigit.java" afterPath="$PROJECT_DIR$/src/_7KYU/CountTheDigit.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_7KYU/Covfefe.java" afterPath="$PROJECT_DIR$/src/_7KYU/Covfefe.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_7KYU/DescendingOrder.java" afterPath="$PROJECT_DIR$/src/_7KYU/DescendingOrder.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_7KYU/DifferenceBetweenTwoCollections.java" afterPath="$PROJECT_DIR$/src/_7KYU/DifferenceBetweenTwoCollections.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_7KYU/ExesAndOhs.java" afterPath="$PROJECT_DIR$/src/_7KYU/ExesAndOhs.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_7KYU/FindTheNextPerfectSquare.java" afterPath="$PROJECT_DIR$/src/_7KYU/FindTheNextPerfectSquare.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_7KYU/GetTheMiddleCharacter.java" afterPath="$PROJECT_DIR$/src/_7KYU/GetTheMiddleCharacter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_7KYU/GrowthOfAPopulation.java" afterPath="$PROJECT_DIR$/src/_7KYU/GrowthOfAPopulation.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_7KYU/HighestAndLowest.java" afterPath="$PROJECT_DIR$/src/_7KYU/HighestAndLowest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_7KYU/InspiringStrings.java" afterPath="$PROJECT_DIR$/src/_7KYU/InspiringStrings.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_7KYU/IsThisATriangle.java" afterPath="$PROJECT_DIR$/src/_7KYU/IsThisATriangle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_7KYU/JadenCasingStrings.java" afterPath="$PROJECT_DIR$/src/_7KYU/JadenCasingStrings.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_7KYU/LostNumberInNumberSequence.java" afterPath="$PROJECT_DIR$/src/_7KYU/LostNumberInNumberSequence.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_7KYU/MostDigits.java" afterPath="$PROJECT_DIR$/src/_7KYU/MostDigits.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_7KYU/Mumbling.java" afterPath="$PROJECT_DIR$/src/_7KYU/Mumbling.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_7KYU/NthSeries.java" afterPath="$PROJECT_DIR$/src/_7KYU/NthSeries.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_7KYU/OnesAndZeros.java" afterPath="$PROJECT_DIR$/src/_7KYU/OnesAndZeros.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_7KYU/PartialWordSearching.java" afterPath="$PROJECT_DIR$/src/_7KYU/PartialWordSearching.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_7KYU/RoboticTattooRemoval.java" afterPath="$PROJECT_DIR$/src/_7KYU/RoboticTattooRemoval.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_7KYU/SectionalArraySort.java" afterPath="$PROJECT_DIR$/src/_7KYU/SectionalArraySort.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_7KYU/ShortestWord.java" afterPath="$PROJECT_DIR$/src/_7KYU/ShortestWord.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_7KYU/StopgninnipSMysdroW.java" afterPath="$PROJECT_DIR$/src/_7KYU/StopgninnipSMysdroW.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_7KYU/TwoToOne.java" afterPath="$PROJECT_DIR$/src/_7KYU/TwoToOne.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_7KYU/VowelCount.java" afterPath="$PROJECT_DIR$/src/_7KYU/VowelCount.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_7KYU/WithoutTheLetterE.java" afterPath="$PROJECT_DIR$/src/_7KYU/WithoutTheLetterE.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_8KYU/CountingSheep.java" afterPath="$PROJECT_DIR$/src/_8KYU/CountingSheep.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_8KYU/DoIGetABonus.java" afterPath="$PROJECT_DIR$/src/_8KYU/DoIGetABonus.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_8KYU/Sid.java" afterPath="$PROJECT_DIR$/src/_8KYU/Sid.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_8KYU/Welcome.java" afterPath="$PROJECT_DIR$/src/_8KYU/Welcome.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,6 +81,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Codewars$DirectionsReductionTest_testSimpleDirReduc.coverage" NAME="DirectionsReductionTest.testSimpleDirReduc Coverage Results" MODIFIED="1502035994319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>_5KYU.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/Codewars$ExesAndOhsTest_testSomething3.coverage" NAME="ExesAndOhsTest.testSomething3 Coverage Results" MODIFIED="1499867794429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>_7KYU.*</FILTER>
     </SUITE>
@@ -33,19 +102,13 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ReturnNegativeTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test/_8KYU/ReturnNegativeTest.java">
+      <file leaf-file-name="RemoveDuplicatesTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/_7KYU/RemoveDuplicatesTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="22" column="38" lean-forward="false" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+            <state relative-caret-position="195">
+              <caret line="13" column="54" lean-forward="true" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="54" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#194#195#0" expanded="true" />
-                <element signature="e#260#261#0" expanded="true" />
-                <element signature="e#297#298#0" expanded="true" />
-                <element signature="e#362#363#0" expanded="true" />
-                <element signature="e#399#400#0" expanded="true" />
-                <element signature="e#462#463#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -74,26 +137,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test/_7KYU/SquareEveryDigitTest.java" />
-        <option value="$PROJECT_DIR$/src/_7KYU/SquareEveryDigit.java" />
-        <option value="$PROJECT_DIR$/test/_7KYU/YouAreASquareTest.java" />
-        <option value="$PROJECT_DIR$/src/_7KYU/YouAreASquare.java" />
-        <option value="$PROJECT_DIR$/test/_7KYU/ShortestWordTest.java" />
-        <option value="$PROJECT_DIR$/src/_7KYU/ShortestWord.java" />
-        <option value="$PROJECT_DIR$/test/_7KYU/TwoToOneTest.java" />
-        <option value="$PROJECT_DIR$/src/_7KYU/TwoToOne.java" />
-        <option value="$PROJECT_DIR$/test/_7KYU/FindTheNextPerfectSquareTest.java" />
-        <option value="$PROJECT_DIR$/src/_7KYU/FindTheNextPerfectSquare.java" />
-        <option value="$PROJECT_DIR$/test/_7KYU/GrowthOfAPopulationTest.java" />
-        <option value="$PROJECT_DIR$/src/_7KYU/GrowthOfAPopulation.java" />
-        <option value="$PROJECT_DIR$/src/_6KYU/AreWeAlternate.java" />
-        <option value="$PROJECT_DIR$/test/_6KYU/AreWeAlternateTest.java" />
-        <option value="$PROJECT_DIR$/test/_6KYU/FindTheOddIntTest.java" />
-        <option value="$PROJECT_DIR$/src/_6KYU/FindTheOddInt.java" />
-        <option value="$PROJECT_DIR$/test/_6KYU/MultiplesOf3And5Test.java" />
-        <option value="$PROJECT_DIR$/src/_6KYU/MultiplesOf3And5.java" />
-        <option value="$PROJECT_DIR$/test/_6KYU/PlayingWithDigitsTest.java" />
-        <option value="$PROJECT_DIR$/src/_6KYU/PlayingWithDigits.java" />
         <option value="$PROJECT_DIR$/test/_6KYU/EqualSidesOfAnArrayTest.java" />
         <option value="$PROJECT_DIR$/src/_6KYU/EqualSidesOfAnArray.java" />
         <option value="$PROJECT_DIR$/test/_6KYU/FindTheParityOutlierTest.java" />
@@ -122,9 +165,29 @@
         <option value="$PROJECT_DIR$/src/_8KYU/ConvertNumberToReversedArrayOfDigits.java" />
         <option value="$PROJECT_DIR$/test/_8KYU/ConvertNumberToReversedArrayOfDigitsTest.java" />
         <option value="$PROJECT_DIR$/test/_8KYU/CountingSheepTest.java" />
-        <option value="$PROJECT_DIR$/src/_8KYU/CountingSheep.java" />
         <option value="$PROJECT_DIR$/test/_8KYU/ReturnNegativeTest.java" />
         <option value="$PROJECT_DIR$/src/_8KYU/ReturnNegative.java" />
+        <option value="$PROJECT_DIR$/src/_8KYU/CountingSheep.java" />
+        <option value="$PROJECT_DIR$/test/_8KYU/ANeedleInTheHaystackTest.java" />
+        <option value="$PROJECT_DIR$/src/_8KYU/ANeedleInTheHaystack.java" />
+        <option value="$PROJECT_DIR$/test/_5KYU/DirectionsReductionTest.java" />
+        <option value="$PROJECT_DIR$/src/_5KYU/DirectionsReduction.java" />
+        <option value="$PROJECT_DIR$/test/_7KYU/SortArrays1Test.java" />
+        <option value="$PROJECT_DIR$/src/_7KYU/SortArrays1.java" />
+        <option value="$PROJECT_DIR$/src/_7KYU/AnagramDetection.java" />
+        <option value="$PROJECT_DIR$/test/_7KYU/AnagramDetectionTest.java" />
+        <option value="$PROJECT_DIR$/test/_7KYU/SortTheGiftCodeTest.java" />
+        <option value="$PROJECT_DIR$/src/_7KYU/SortTheGiftCode.java" />
+        <option value="$PROJECT_DIR$/test/_7KYU/BreakingChocolateProblemTest.java" />
+        <option value="$PROJECT_DIR$/src/_7KYU/BreakingChocolateProblem.java" />
+        <option value="$PROJECT_DIR$/src/_7KYU/GreetMe.java" />
+        <option value="$PROJECT_DIR$/test/_7KYU/GreetMeTest.java" />
+        <option value="$PROJECT_DIR$/src/_7KYU/NameArrayCapping.java" />
+        <option value="$PROJECT_DIR$/test/_7KYU/NameArrayCappingTest.java" />
+        <option value="$PROJECT_DIR$/src/_7KYU/AreaOfACircle.java" />
+        <option value="$PROJECT_DIR$/test/_7KYU/AreaOfACircleTest.java" />
+        <option value="$PROJECT_DIR$/src/_7KYU/RemoveDuplicates.java" />
+        <option value="$PROJECT_DIR$/test/_7KYU/RemoveDuplicatesTest.java" />
       </list>
     </option>
   </component>
@@ -157,6 +220,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -183,10 +247,6 @@
               <option name="myItemId" value="test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_8KYU" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -201,18 +261,8 @@
               <option name="myItemId" value="test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Codewars" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Codewars" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
+              <option name="myItemId" value="_5KYU" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -229,15 +279,28 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="_8KYU" />
+              <option name="myItemId" value="Codewars" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Codewars" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_7KYU" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -253,14 +316,15 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="_7KYU" />
+      <recent name="_5KYU" />
       <recent name="_8KYU" />
       <recent name="_6KYU" />
-      <recent name="_7KYU" />
       <recent name="" />
-      <recent name="test" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="_6KYU" />
@@ -287,8 +351,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ReturnNegativeTest">
-    <configuration default="false" name="SumWithoutHighestAndLowestNumberTest.BasicTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.SortArrays1Test.intArrayTests">
+    <configuration default="false" name="ANeedleInTheHaystackTest.tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="_8KYU.*" />
@@ -299,33 +363,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="_8KYU" />
-      <option name="MAIN_CLASS_NAME" value="_8KYU.SumWithoutHighestAndLowestNumberTest" />
-      <option name="METHOD_NAME" value="BasicTests" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="ConvertNumberToReversedArrayOfDigitsTest.tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="_8KYU.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="Codewars" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="_8KYU" />
-      <option name="MAIN_CLASS_NAME" value="_8KYU.ConvertNumberToReversedArrayOfDigitsTest" />
+      <option name="MAIN_CLASS_NAME" value="_8KYU.ANeedleInTheHaystackTest" />
       <option name="METHOD_NAME" value="tests" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
@@ -340,7 +378,7 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="ConvertNumberToReversedArrayOfDigitsTest.tests1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="ANeedleInTheHaystackTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="_8KYU.*" />
@@ -351,8 +389,34 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="_8KYU" />
-      <option name="MAIN_CLASS_NAME" value="_8KYU.ConvertNumberToReversedArrayOfDigitsTest" />
-      <option name="METHOD_NAME" value="tests1" />
+      <option name="MAIN_CLASS_NAME" value="_8KYU.ANeedleInTheHaystackTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="DirectionsReductionTest.testSimpleDirReduc" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="_5KYU.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="Codewars" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="_5KYU" />
+      <option name="MAIN_CLASS_NAME" value="_5KYU.DirectionsReductionTest" />
+      <option name="METHOD_NAME" value="testSimpleDirReduc" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
@@ -366,20 +430,20 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="CountingSheepTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="DirectionsReductionTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="_8KYU.*" />
+          <option name="PATTERN" value="_5KYU.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="Codewars" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="_8KYU" />
-      <option name="MAIN_CLASS_NAME" value="_8KYU.CountingSheepTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="_5KYU" />
+      <option name="MAIN_CLASS_NAME" value="_5KYU.DirectionsReductionTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -392,20 +456,20 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="ReturnNegativeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="SortArrays1Test.intArrayTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="_8KYU.*" />
+          <option name="PATTERN" value="_7KYU.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="Codewars" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="_8KYU" />
-      <option name="MAIN_CLASS_NAME" value="_8KYU.ReturnNegativeTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="_7KYU" />
+      <option name="MAIN_CLASS_NAME" value="_7KYU.SortArrays1Test" />
+      <option name="METHOD_NAME" value="intArrayTests" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -783,19 +847,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.SumWithoutHighestAndLowestNumberTest.BasicTests" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.ConvertNumberToReversedArrayOfDigitsTest.tests" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.ConvertNumberToReversedArrayOfDigitsTest.tests1" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.CountingSheepTest" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.ReturnNegativeTest" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.ANeedleInTheHaystackTest.tests" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.ANeedleInTheHaystackTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.DirectionsReductionTest.testSimpleDirReduc" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.DirectionsReductionTest.test" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.SortArrays1Test.intArrayTests" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.ReturnNegativeTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.CountingSheepTest" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.ConvertNumberToReversedArrayOfDigitsTest.tests1" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.ConvertNumberToReversedArrayOfDigitsTest.tests" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.SumWithoutHighestAndLowestNumberTest.BasicTests" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.SortArrays1Test.intArrayTests" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.DirectionsReductionTest.test" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.DirectionsReductionTest.testSimpleDirReduc" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.ANeedleInTheHaystackTest" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.ANeedleInTheHaystackTest.tests" />
       </list>
     </recent_temporary>
   </component>
@@ -812,7 +876,13 @@
       <workItem from="1499374178683" duration="58604000" />
       <workItem from="1499859339745" duration="36467000" />
       <workItem from="1501326172829" duration="126000" />
-      <workItem from="1501348331288" duration="15102000" />
+      <workItem from="1501348331288" duration="15728000" />
+      <workItem from="1501534868893" duration="2097000" />
+      <workItem from="1501718535904" duration="1889000" />
+      <workItem from="1502035816282" duration="1333000" />
+      <workItem from="1502547045850" duration="44000" />
+      <workItem from="1502565280337" duration="432000" />
+      <workItem from="1503165332111" duration="648000" />
     </task>
     <task id="LOCAL-00001" summary="FindTheParityOutlier.java added!">
       <created>1501015638067</created>
@@ -839,39 +909,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ConvertNumberToReversedArrayOfDigitsTest_tests - 2017.07.30 at 23h 29m 08s.xml">
-      <configuration name="ConvertNumberToReversedArrayOfDigitsTest.tests" configurationId="JUnit" />
+    <history-entry file="DirectionsReductionTest_test - 2017.08.06 at 19h 18m 54s.xml">
+      <configuration name="DirectionsReductionTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ConvertNumberToReversedArrayOfDigitsTest_tests - 2017.07.30 at 23h 30m 40s.xml">
-      <configuration name="ConvertNumberToReversedArrayOfDigitsTest.tests" configurationId="JUnit" />
+    <history-entry file="DirectionsReductionTest_testSimpleDirReduc - 2017.08.06 at 19h 12m 49s.xml">
+      <configuration name="DirectionsReductionTest.testSimpleDirReduc" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ConvertNumberToReversedArrayOfDigitsTest_tests - 2017.07.30 at 23h 34m 12s.xml">
-      <configuration name="ConvertNumberToReversedArrayOfDigitsTest.tests" configurationId="JUnit" />
+    <history-entry file="DirectionsReductionTest_testSimpleDirReduc - 2017.08.06 at 19h 12m 54s.xml">
+      <configuration name="DirectionsReductionTest.testSimpleDirReduc" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ConvertNumberToReversedArrayOfDigitsTest_tests1 - 2017.07.30 at 23h 53m 04s.xml">
-      <configuration name="ConvertNumberToReversedArrayOfDigitsTest.tests1" configurationId="JUnit" />
+    <history-entry file="DirectionsReductionTest_testSimpleDirReduc - 2017.08.06 at 19h 13m 16s.xml">
+      <configuration name="DirectionsReductionTest.testSimpleDirReduc" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CountingSheepTest - 2017.07.31 at 00h 01m 17s.xml">
-      <configuration name="CountingSheepTest" configurationId="JUnit" />
+    <history-entry file="DirectionsReductionTest_testSimpleDirReduc - 2017.08.06 at 19h 14m 01s.xml">
+      <configuration name="DirectionsReductionTest.testSimpleDirReduc" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CountingSheepTest - 2017.07.31 at 00h 04m 06s.xml">
-      <configuration name="CountingSheepTest" configurationId="JUnit" />
+    <history-entry file="DirectionsReductionTest_testSimpleDirReduc - 2017.08.06 at 19h 14m 26s.xml">
+      <configuration name="DirectionsReductionTest.testSimpleDirReduc" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CountingSheepTest - 2017.07.31 at 00h 07m 17s.xml">
-      <configuration name="CountingSheepTest" configurationId="JUnit" />
+    <history-entry file="DirectionsReductionTest_testSimpleDirReduc - 2017.08.06 at 19h 17m 30s.xml">
+      <configuration name="DirectionsReductionTest.testSimpleDirReduc" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CountingSheepTest - 2017.07.31 at 00h 07m 54s.xml">
-      <configuration name="CountingSheepTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CountingSheepTest - 2017.07.31 at 00h 11m 08s.xml">
-      <configuration name="CountingSheepTest" configurationId="JUnit" />
+    <history-entry file="DirectionsReductionTest_testSimpleDirReduc - 2017.08.06 at 19h 17m 53s.xml">
+      <configuration name="DirectionsReductionTest.testSimpleDirReduc" configurationId="JUnit" />
     </history-entry>
     <history-entry file="ReturnNegativeTest - 2017.07.31 at 00h 14m 56s.xml">
       <configuration name="ReturnNegativeTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="SortArrays1Test_intArrayTests - 2017.08.12 at 22h 18m 42s.xml">
+      <configuration name="SortArrays1Test.intArrayTests" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="110299000" />
+    <option name="totallyTimeSpent" value="117368000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -889,31 +959,31 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32880434" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32880434" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32880434" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32744566" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32880434" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32880434" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18097281" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19456366" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32880434" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39945653" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3980978" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32880434" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" x="100" y="122" width="1240" height="628" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -1013,7 +1083,7 @@
           <option name="timeStamp" value="91" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="94" />
+      <option name="time" value="100" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1022,229 +1092,10 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/_7KYU/FindTheNextPerfectSquareTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="23" column="49" lean-forward="false" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_7KYU/FindTheNextPerfectSquare.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="48" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="16" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/_7KYU/GrowthOfAPopulationTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_7KYU/GrowthOfAPopulation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11712">
-          <caret line="975" column="19" lean-forward="false" selection-start-line="975" selection-start-column="19" selection-end-line="975" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/_6KYU/AreWeAlternateTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/_6KYU/FindTheOddIntTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_6KYU/FindTheOddInt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="34" column="5" lean-forward="false" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/_6KYU/MultiplesOf3And5Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="47" lean-forward="false" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_6KYU/MultiplesOf3And5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/_6KYU/PlayingWithDigitsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="42" lean-forward="false" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/_6KYU/EqualSidesOfAnArrayTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_6KYU/EqualSidesOfAnArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/_6KYU/FindTheParityOutlierTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_6KYU/BowlingPins.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="18" lean-forward="false" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_6KYU/FindTheParityOutlier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-80">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/util/stream/IntStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="87" column="14" lean-forward="false" selection-start-line="87" selection-start-column="14" selection-end-line="87" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-71765">
-          <caret line="261" column="7" lean-forward="true" selection-start-line="261" selection-start-column="7" selection-end-line="261" selection-end-column="7" />
-          <folding>
-            <element signature="e#223144#223145#0" expanded="false" />
-            <element signature="e#223197#223198#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_6KYU/AreTheyTheSame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_6KYU/AreWeAlternate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_6KYU/PersistentBugger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_6KYU/PlayingWithDigits.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="24" lean-forward="false" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_6KYU/WhichAreIn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/_6KYU/TribonacciSequenceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="35" column="102" lean-forward="false" selection-start-line="35" selection-start-column="102" selection-end-line="35" selection-end-column="102" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_6KYU/TribonacciSequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/_6KYU/SumOfDigitsRootTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#270#271#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_6KYU/SumOfDigitsRoot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="37" lean-forward="true" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/_6KYU/DuplicateEncoderTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="67" lean-forward="false" selection-start-line="15" selection-start-column="67" selection-end-line="15" selection-end-column="67" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1262,13 +1113,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="55" lean-forward="true" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="67" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#187#188#0" expanded="false" />
-            <element signature="e#265#266#0" expanded="false" />
-            <element signature="e#302#303#0" expanded="false" />
-            <element signature="e#382#383#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1296,12 +1140,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#334#335#0" expanded="true" />
-            <element signature="e#532#533#0" expanded="true" />
-            <element signature="e#634#635#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1309,7 +1147,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="265">
           <caret line="117" column="31" lean-forward="true" selection-start-line="117" selection-start-column="31" selection-end-line="117" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1317,9 +1154,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="22" lean-forward="false" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1327,38 +1161,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="48" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="48" />
-          <folding>
-            <element signature="e#198#199#0" expanded="true" />
-            <element signature="e#253#254#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_8KYU/SumOfPositive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_8KYU/SumOfPositive.java" />
     <entry file="file://$PROJECT_DIR$/test/_8KYU/StringRepeatTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="9" column="21" lean-forward="false" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#193#194#0" expanded="true" />
-            <element signature="e#261#262#0" expanded="true" />
-            <element signature="e#303#304#0" expanded="true" />
-            <element signature="e#386#387#0" expanded="true" />
-            <element signature="e#428#429#0" expanded="true" />
-            <element signature="e#491#492#0" expanded="true" />
-            <element signature="e#532#533#0" expanded="true" />
-            <element signature="e#599#600#0" expanded="true" />
-            <element signature="e#649#650#0" expanded="true" />
-            <element signature="e#718#719#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1366,7 +1176,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1374,10 +1183,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="29" />
-          <folding>
-            <element signature="e#200#201#0" expanded="true" />
-            <element signature="e#236#237#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1385,11 +1190,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#194#195#0" expanded="true" />
-            <element signature="e#254#255#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1397,11 +1197,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="57" lean-forward="false" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#217#218#0" expanded="true" />
-            <element signature="e#314#315#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1409,7 +1204,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1417,9 +1211,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="50" lean-forward="false" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1427,17 +1218,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="186">
           <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1445,7 +1225,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="139">
           <caret line="48" column="12" lean-forward="false" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1453,11 +1232,105 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="40" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="15" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#429#430#0" expanded="true" />
-            <element signature="e#534#535#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_8KYU/ReturnNegative.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_8KYU/DoIGetABonus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="19" column="56" lean-forward="true" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/_8KYU/ReturnNegativeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="9" lean-forward="false" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_6KYU/AreTheyTheSame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_6KYU/BuyCar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_6KYU/BowlingPins.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="18" lean-forward="false" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_6KYU/EqualSidesOfAnArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="63" lean-forward="true" selection-start-line="26" selection-start-column="63" selection-end-line="26" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/_8KYU/ANeedleInTheHaystackTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="100" lean-forward="true" selection-start-line="17" selection-start-column="100" selection-end-line="17" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_8KYU/ANeedleInTheHaystack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_5KYU/ConvertStringToCamelCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="202" column="0" lean-forward="false" selection-start-line="202" selection-start-column="0" selection-end-line="202" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/_5KYU/DirectionsReductionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_5KYU/DirectionsReduction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="41" column="60" lean-forward="true" selection-start-line="41" selection-start-column="60" selection-end-line="41" selection-end-column="60" />
         </state>
       </provider>
     </entry>
@@ -1469,26 +1342,152 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_8KYU/ReturnNegative.java">
+    <entry file="file://$PROJECT_DIR$/test/_7KYU/SortArrays1Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state relative-caret-position="210">
+          <caret line="16" column="39" lean-forward="false" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_7KYU/SortArrays1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/_8KYU/ReturnNegativeTest.java">
+    <entry file="file://$PROJECT_DIR$/test/_7KYU/AnagramDetectionTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="22" column="38" lean-forward="false" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+        <state relative-caret-position="165">
+          <caret line="11" column="16" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#194#195#0" expanded="true" />
-            <element signature="e#260#261#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_7KYU/AnagramDetection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="53" lean-forward="true" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_7KYU/BreakingChocolateProblem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="39" lean-forward="true" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_7KYU/SortTheGiftCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/_7KYU/BreakingChocolateProblemTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="45" lean-forward="false" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/_7KYU/SortTheGiftCodeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="48" lean-forward="false" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_7KYU/GreetMe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/_7KYU/GreetMeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
             <element signature="e#297#298#0" expanded="true" />
-            <element signature="e#362#363#0" expanded="true" />
-            <element signature="e#399#400#0" expanded="true" />
-            <element signature="e#462#463#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_7KYU/NameArrayCapping.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/_7KYU/NameArrayCappingTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="94" lean-forward="true" selection-start-line="13" selection-start-column="94" selection-end-line="13" selection-end-column="94" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_7KYU/AreaOfACircle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="18" lean-forward="false" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/_7KYU/AreaOfACircleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_7KYU/RemoveDuplicates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+          <folding>
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/_7KYU/RemoveDuplicatesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="54" lean-forward="true" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

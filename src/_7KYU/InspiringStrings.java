@@ -16,7 +16,7 @@ public class InspiringStrings {
         String longestWord = "";
 
         for (int i = 0; i < splitArr.length; i++) {
-            if(splitArr[i].length() >= longestWord.length())
+            if (splitArr[i].length() >= longestWord.length())
                 longestWord = splitArr[i];
         }
 
