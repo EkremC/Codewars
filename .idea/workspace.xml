@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9cb548fd-cf15-4083-a261-bf07d9807914" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/_6KYU/FormatWordsIntoASentence.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/_6KYU/FormatWordsIntoASentenceTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/_5KYU/PaginationHelper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/_5KYU/PaginationHelperTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,14 +15,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Codewars$WhichAreInTest_test2.coverage" NAME="WhichAreInTest.test2 Coverage Results" MODIFIED="1499431563340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Codewars$BrokenSequenceTest_test4.coverage" NAME="BrokenSequenceTest.test4 Coverage Results" MODIFIED="1499417706038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/Codewars$DirectionsReductionTest_testSimpleDirReduc.coverage" NAME="DirectionsReductionTest.testSimpleDirReduc Coverage Results" MODIFIED="1502035994319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>_5KYU.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/Codewars$ExesAndOhsTest_testSomething3.coverage" NAME="ExesAndOhsTest.testSomething3 Coverage Results" MODIFIED="1499867794429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>_7KYU.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/Codewars$BrokenSequenceTest_test4.coverage" NAME="BrokenSequenceTest.test4 Coverage Results" MODIFIED="1499417706038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/Codewars$WhichAreInTest_test2.coverage" NAME="WhichAreInTest.test2 Coverage Results" MODIFIED="1499431563340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -33,24 +33,23 @@
     <option name="SHOW_EMPTY_GROUPS" value="false" />
     <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FormatWordsIntoASentence.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/_6KYU/FormatWordsIntoASentence.java">
+      <file leaf-file-name="PaginationHelper.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/_5KYU/PaginationHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+            <state relative-caret-position="340">
+              <caret line="55" column="43" lean-forward="false" selection-start-line="55" selection-start-column="43" selection-end-line="55" selection-end-column="43" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FormatWordsIntoASentenceTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/_6KYU/FormatWordsIntoASentenceTest.java">
+      <file leaf-file-name="PaginationHelperTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/_5KYU/PaginationHelperTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+            <state relative-caret-position="401">
+              <caret line="34" column="5" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="34" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -81,8 +80,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test/_6KYU/FindTheParityOutlierTest.java" />
-        <option value="$PROJECT_DIR$/src/_6KYU/FindTheParityOutlier.java" />
         <option value="$PROJECT_DIR$/src/_6KYU/WhichAreIn.java" />
         <option value="$PROJECT_DIR$/test/_6KYU/TribonacciSequenceTest.java" />
         <option value="$PROJECT_DIR$/src/_6KYU/TribonacciSequence.java" />
@@ -132,6 +129,8 @@
         <option value="$PROJECT_DIR$/test/_7KYU/RemoveDuplicatesTest.java" />
         <option value="$PROJECT_DIR$/test/_6KYU/FormatWordsIntoASentenceTest.java" />
         <option value="$PROJECT_DIR$/src/_6KYU/FormatWordsIntoASentence.java" />
+        <option value="$PROJECT_DIR$/test/_5KYU/PaginationHelperTest.java" />
+        <option value="$PROJECT_DIR$/src/_5KYU/PaginationHelper.java" />
       </list>
     </option>
   </component>
@@ -142,7 +141,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="22" />
+    <option name="x" value="128" />
+    <option name="y" value="85" />
     <option name="width" value="1440" />
     <option name="height" value="828" />
   </component>
@@ -165,86 +165,31 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="Scratches" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Codewars" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Codewars" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Codewars" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Codewars" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Codewars" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Codewars" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_5KYU" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Codewars" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Codewars" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Codewars" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Codewars" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_6KYU" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
+          <expand>
+            <path>
+              <item name="Codewars" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Codewars" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Codewars" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Codewars" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Codewars" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Codewars" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_5KYU" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -264,9 +209,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="_5KYU" />
       <recent name="_6KYU" />
       <recent name="_7KYU" />
-      <recent name="_5KYU" />
       <recent name="_8KYU" />
       <recent name="" />
     </key>
@@ -295,8 +240,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.FormatWordsIntoASentenceTest.deneme">
-    <configuration default="false" name="DirectionsReductionTest.testSimpleDirReduc" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.PaginationHelperTest">
+    <configuration name="PaginationHelperTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="_5KYU.*" />
@@ -307,9 +252,9 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="_5KYU" />
-      <option name="MAIN_CLASS_NAME" value="_5KYU.DirectionsReductionTest" />
-      <option name="METHOD_NAME" value="testSimpleDirReduc" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="_5KYU.PaginationHelperTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -320,9 +265,8 @@
       </option>
       <envs />
       <patterns />
-      <method />
     </configuration>
-    <configuration default="false" name="DirectionsReductionTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PaginationHelperTest.itemCount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="_5KYU.*" />
@@ -333,8 +277,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="_5KYU" />
-      <option name="MAIN_CLASS_NAME" value="_5KYU.DirectionsReductionTest" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="_5KYU.PaginationHelperTest" />
+      <option name="METHOD_NAME" value="itemCount" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
@@ -346,21 +290,20 @@
       </option>
       <envs />
       <patterns />
-      <method />
     </configuration>
-    <configuration default="false" name="SortArrays1Test.intArrayTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PaginationHelperTest.pageCount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="_7KYU.*" />
+          <option name="PATTERN" value="_5KYU.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="Codewars" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="_7KYU" />
-      <option name="MAIN_CLASS_NAME" value="_7KYU.SortArrays1Test" />
-      <option name="METHOD_NAME" value="intArrayTests" />
+      <option name="PACKAGE_NAME" value="_5KYU" />
+      <option name="MAIN_CLASS_NAME" value="_5KYU.PaginationHelperTest" />
+      <option name="METHOD_NAME" value="pageCount" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
@@ -372,21 +315,20 @@
       </option>
       <envs />
       <patterns />
-      <method />
     </configuration>
-    <configuration default="false" name="FormatWordsIntoASentenceTest.sampleTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PaginationHelperTest.pageIndex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="_6KYU.*" />
+          <option name="PATTERN" value="_5KYU.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="Codewars" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="_6KYU" />
-      <option name="MAIN_CLASS_NAME" value="_6KYU.FormatWordsIntoASentenceTest" />
-      <option name="METHOD_NAME" value="sampleTests" />
+      <option name="PACKAGE_NAME" value="_5KYU" />
+      <option name="MAIN_CLASS_NAME" value="_5KYU.PaginationHelperTest" />
+      <option name="METHOD_NAME" value="pageIndex" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
@@ -398,21 +340,20 @@
       </option>
       <envs />
       <patterns />
-      <method />
     </configuration>
-    <configuration default="false" name="FormatWordsIntoASentenceTest.deneme" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PaginationHelperTest.pageItemCount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="_6KYU.*" />
+          <option name="PATTERN" value="_5KYU.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="Codewars" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="_6KYU" />
-      <option name="MAIN_CLASS_NAME" value="_6KYU.FormatWordsIntoASentenceTest" />
-      <option name="METHOD_NAME" value="deneme" />
+      <option name="PACKAGE_NAME" value="_5KYU" />
+      <option name="MAIN_CLASS_NAME" value="_5KYU.PaginationHelperTest" />
+      <option name="METHOD_NAME" value="pageItemCount" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
@@ -424,7 +365,22 @@
       </option>
       <envs />
       <patterns />
-      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
     </configuration>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
       <module name="" />
@@ -642,15 +598,6 @@
       </ExternalSystemSettings>
       <method />
     </configuration>
-    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
-      <setting name="vmparams" value="" />
-      <setting name="cmdLine" value="run-app" />
-      <setting name="passParentEnv" value="true" />
-      <setting name="launchBrowser" value="true" />
-      <setting name="launchBrowserUrl" value="" />
-      <setting name="depsClasspath" value="false" />
-      <method />
-    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -768,15 +715,6 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <arguments />
-      <envs />
-      <method />
-    </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
       <command value="run" />
       <scripts />
@@ -791,19 +729,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.DirectionsReductionTest.testSimpleDirReduc" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.DirectionsReductionTest.test" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.SortArrays1Test.intArrayTests" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.FormatWordsIntoASentenceTest.sampleTests" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.FormatWordsIntoASentenceTest.deneme" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.PaginationHelperTest.pageCount" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.PaginationHelperTest.itemCount" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.PaginationHelperTest.pageIndex" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.PaginationHelperTest.pageItemCount" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.PaginationHelperTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.FormatWordsIntoASentenceTest.deneme" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.FormatWordsIntoASentenceTest.sampleTests" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.SortArrays1Test.intArrayTests" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.DirectionsReductionTest.test" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.DirectionsReductionTest.testSimpleDirReduc" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.PaginationHelperTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.PaginationHelperTest.pageItemCount" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.PaginationHelperTest.pageIndex" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.PaginationHelperTest.itemCount" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.PaginationHelperTest.pageCount" />
       </list>
     </recent_temporary>
   </component>
@@ -828,6 +766,9 @@
       <workItem from="1502565280337" duration="432000" />
       <workItem from="1503165332111" duration="1276000" />
       <workItem from="1506172814834" duration="4022000" />
+      <workItem from="1506982727195" duration="64000" />
+      <workItem from="1511114120617" duration="3678000" />
+      <workItem from="1511117830642" duration="1420000" />
     </task>
     <task id="LOCAL-00001" summary="FindTheParityOutlier.java added!">
       <created>1501015638067</created>
@@ -854,39 +795,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FormatWordsIntoASentenceTest_deneme - 2017.09.23 at 17h 39m 58s.xml">
-      <configuration name="FormatWordsIntoASentenceTest.deneme" configurationId="JUnit" />
+    <history-entry file="PaginationHelperTest - 2017.11.19 at 22h 08m 16s.xml">
+      <configuration name="PaginationHelperTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FormatWordsIntoASentenceTest_deneme - 2017.09.23 at 17h 41m 07s.xml">
-      <configuration name="FormatWordsIntoASentenceTest.deneme" configurationId="JUnit" />
+    <history-entry file="PaginationHelperTest_pageCount - 2017.11.19 at 21h 23m 19s.xml">
+      <configuration name="PaginationHelperTest.pageCount" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FormatWordsIntoASentenceTest_deneme - 2017.09.23 at 17h 41m 17s.xml">
-      <configuration name="FormatWordsIntoASentenceTest.deneme" configurationId="JUnit" />
+    <history-entry file="PaginationHelperTest_pageIndex - 2017.11.19 at 21h 51m 02s.xml">
+      <configuration name="PaginationHelperTest.pageIndex" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FormatWordsIntoASentenceTest_deneme - 2017.09.23 at 17h 43m 33s.xml">
-      <configuration name="FormatWordsIntoASentenceTest.deneme" configurationId="JUnit" />
+    <history-entry file="PaginationHelperTest_pageIndex - 2017.11.19 at 21h 51m 30s.xml">
+      <configuration name="PaginationHelperTest.pageIndex" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FormatWordsIntoASentenceTest_deneme - 2017.09.23 at 17h 44m 39s.xml">
-      <configuration name="FormatWordsIntoASentenceTest.deneme" configurationId="JUnit" />
+    <history-entry file="PaginationHelperTest_pageItemCount - 2017.11.19 at 21h 58m 20s.xml">
+      <configuration name="PaginationHelperTest.pageItemCount" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FormatWordsIntoASentenceTest_sampleTests - 2017.09.23 at 16h 38m 56s.xml">
-      <configuration name="FormatWordsIntoASentenceTest.sampleTests" configurationId="JUnit" />
+    <history-entry file="PaginationHelperTest_pageItemCount - 2017.11.19 at 22h 00m 03s.xml">
+      <configuration name="PaginationHelperTest.pageItemCount" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FormatWordsIntoASentenceTest_sampleTests - 2017.09.23 at 17h 37m 34s.xml">
-      <configuration name="FormatWordsIntoASentenceTest.sampleTests" configurationId="JUnit" />
+    <history-entry file="PaginationHelperTest_pageItemCount - 2017.11.19 at 22h 04m 58s.xml">
+      <configuration name="PaginationHelperTest.pageItemCount" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FormatWordsIntoASentenceTest_sampleTests - 2017.09.23 at 17h 37m 40s.xml">
-      <configuration name="FormatWordsIntoASentenceTest.sampleTests" configurationId="JUnit" />
+    <history-entry file="PaginationHelperTest_pageItemCount - 2017.11.19 at 22h 08m 12s.xml">
+      <configuration name="PaginationHelperTest.pageItemCount" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FormatWordsIntoASentenceTest_sampleTests - 2017.09.23 at 17h 38m 49s.xml">
-      <configuration name="FormatWordsIntoASentenceTest.sampleTests" configurationId="JUnit" />
+    <history-entry file="PaginationHelperTest_pageItemCount - 2017.11.19 at 22h 21m 26s.xml">
+      <configuration name="PaginationHelperTest.pageItemCount" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FormatWordsIntoASentenceTest_sampleTests - 2017.09.23 at 17h 41m 09s.xml">
-      <configuration name="FormatWordsIntoASentenceTest.sampleTests" configurationId="JUnit" />
+    <history-entry file="PaginationHelperTest_pageItemCount - 2017.11.19 at 22h 21m 27s.xml">
+      <configuration name="PaginationHelperTest.pageItemCount" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="122018000" />
+    <option name="totallyTimeSpent" value="127180000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -898,34 +839,34 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="828" extended-state="6" />
+    <frame x="128" y="85" width="1440" height="828" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32880434" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32880434" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287858" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32744566" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32880434" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32742155" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3287858" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32880434" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19742489" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20028612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3980978" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39699864" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" x="100" y="122" width="1240" height="628" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -934,7 +875,7 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="processedProjectFiles" value="true" />
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -1032,8 +973,22 @@
           <properties />
           <option name="timeStamp" value="103" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/_5KYU/PaginationHelperTest.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/_5KYU/PaginationHelper.java</url>
+          <line>42</line>
+          <properties class="_5KYU.PaginationHelper" method="pageItemCount">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="104" />
+      <option name="time" value="108" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1042,23 +997,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/_6KYU/DubStepTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="55" lean-forward="true" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_6KYU/DubStep.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="22" column="16" lean-forward="false" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/_6KYU/YourOrder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="169">
@@ -1271,7 +1209,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1286,9 +1223,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="53" lean-forward="true" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1296,7 +1230,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="39" lean-forward="true" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1304,7 +1237,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1326,7 +1258,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1341,7 +1272,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1356,7 +1286,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="18" lean-forward="false" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1371,10 +1300,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-          <folding>
-            <element signature="e#234#235#0" expanded="false" />
-            <element signature="e#301#302#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1382,17 +1307,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="43" lean-forward="false" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
+    <entry file="file://$PROJECT_DIR$/src/_6KYU/FormatWordsIntoASentence.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="202" column="0" lean-forward="false" selection-start-line="202" selection-start-column="0" selection-end-line="202" selection-end-column="0" />
+        <state relative-caret-position="465">
+          <caret line="31" column="34" lean-forward="false" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/_6KYU/FormatWordsIntoASentenceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1404,20 +1333,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/_6KYU/FormatWordsIntoASentenceTest.java">
+    <entry file="jar://$PROJECT_DIR$/lib/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        <state relative-caret-position="139">
+          <caret line="202" column="0" lean-forward="false" selection-start-line="202" selection-start-column="0" selection-end-line="202" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/_5KYU/PaginationHelperTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="34" column="5" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="34" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_6KYU/FormatWordsIntoASentence.java">
+    <entry file="file://$PROJECT_DIR$/src/_5KYU/PaginationHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        <state relative-caret-position="340">
+          <caret line="55" column="43" lean-forward="false" selection-start-line="55" selection-start-column="43" selection-end-line="55" selection-end-column="43" />
           <folding />
         </state>
       </provider>
