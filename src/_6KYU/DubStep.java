@@ -9,19 +9,14 @@ import java.util.regex.Pattern;
 // https://www.codewars.com/kata/dubstep/train/java
 public class DubStep {
 
-    public static String songDecoder(String song) {
-
-        StringBuilder builder = new StringBuilder();
-        Matcher matcher = Pattern.compile("(WUB)+").matcher(song);
-        while (matcher.find()) {
-            builder.replace(matcher.start(), matcher.end(), " ");
-
+    public static String SongDecoder (String song)
+    {
+        String[] arr = song.split("(WUB)+");
+        String ret = "";
+        for(String s : arr){
+            ret += " " + s;
         }
 
-        while (song.matches("(WUB)+")) {
-
-        }
-
-        return builder.toString();
+        return ret.trim();
     }
 }
